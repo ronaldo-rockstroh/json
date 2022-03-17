@@ -1,8 +1,8 @@
 {
   "lista": [
-    { "siape": 1, "nome": "Entendendo o ES6"},
-    { "siape": 2, "nome": "Produtividade Máxima com o VS Code"},
-    { "siape": 3, "nome": "Entendendo o ES7/ES8"},
-    { "siape": 4, "nome": "React 16 Definitivo"}
+    { "siape": 1, "nome": "Joao Carlos"},
+    { "siape": 2, "nome": "Joao Francisco"},
+    { "siape": 3, "nome": "Maria Ana"},
+    { "siape": 4, "nome": "Maria Clara"}
   ]
 }
