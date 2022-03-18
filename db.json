@@ -1,8 +1,8 @@
 {
   "lista": [
-    { "siape": 1, "nome": "Joao Carlos"},
-    { "siape": 2, "nome": "Joao Francisco"},
-    { "siape": 3, "nome": "Maria Ana"},
-    { "siape": 4, "nome": "Maria Clara"}
+    {"id":1, "siape": 1, "nome": "Joao Carlos"},
+    {"id":2, "siape": 2, "nome": "Joao Francisco"},
+    {"id":3, "siape": 3, "nome": "Maria Ana"},
+    {"id":4, "siape": 4, "nome": "Maria Clara"}
   ]
 }
